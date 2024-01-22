@@ -1,0 +1,21 @@
+#$ CUALQUER VARIBLE QUE SE AGREGUE ACÁ TIENE QUE SE SER AGREGADA MANUALMENTE EN EL DEPLOY DE VERCEL.
+
+#% DB POSTGRESS
+# DB_NAME=codexpert
+# DB_USER=postgres
+# DB_PASSWORD=root
+# DB_HOST=localhost
+# DB_PORT=5432
+
+#% DB ONLINE
+DB_NAME=verceldb
+DB_USER=default
+DB_PASSWORD=Tdjtr4k2zNlc
+DB_HOST=ep-aged-silence-62483912-pooler.us-east-1.postgres.vercel-storage.com
+DB_PORT=5432
+NODE_ENV=production
+
+
+#% TOKEN :
+# ADMIN_TOKEN_KEY=0843!$%SXIWS9233
+# USER_TOKEN_KEY=!%&f345345dsfdfR
